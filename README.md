@@ -1,0 +1,2 @@
+# qfedu
+django-project
